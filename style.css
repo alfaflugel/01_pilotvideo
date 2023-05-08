@@ -221,3 +221,6 @@ iframe {
   height: auto;
   aspect-ratio: 16 / 9;
 }
+.grid_4 :first-child {
+  height: 93.8%;
+}
